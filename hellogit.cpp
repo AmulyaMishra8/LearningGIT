@@ -42,6 +42,6 @@ int main(){
         step = step / 10;
     }
 
-    cout << finalanswer;
+    cout << "the square root of " << a << " is : "  << finalanswer;
 
 }
